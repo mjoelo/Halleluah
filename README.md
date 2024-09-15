@@ -1,7 +1,7 @@
 #              Halleluah
 --------------------------------------------------
 Jesus Christ is the King of kings & Lord of lords.
-Jesus Christ reigns forever
+Jesus Christ reigns forever & ever
                  ***Amen***
 --------------------------------------------------
   
