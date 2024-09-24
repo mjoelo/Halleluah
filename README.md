@@ -4,6 +4,8 @@
 
 > [!IMPORTANT]
 > Jesus Christ reigns forever & ever
+
+                `***Amen***`
   ## **GitHub**
   [@mjoelo](https://github.com/mjoelo)
 
