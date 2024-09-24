@@ -18,5 +18,14 @@
    - T-SQL
 4. Golang
 5. Kotlin
-
+# Azure Certifications
+- [X] \*_Azure Fundamentals_ 
+- [ ] Azure Administrator Associate
+- [ ] Microsoft 365 Endpoint Administrator Associate
+- [ ] Microsoft 365 Administrator Expert
+- [ ] Azure Database Administrator Associate
+- [ ] Azure DevOps Expert
+- [ ] Azure Security Engineer Associate
+- [ ] Azure Network Engineer Associate
+- [ ] Cybersecurity Architect Expert
 
